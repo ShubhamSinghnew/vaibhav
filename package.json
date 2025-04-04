@@ -1,7 +1,7 @@
 {
   "name": "sig",
   "version": "1.0.0",
-  "main": "src/index.js",
+  "main": "index.js",
   "license": "MIT",
   "type": "module",
   "scripts": {
@@ -22,7 +22,5 @@
     "socket.io": "^4.6.2",
     "ts-node": "^10.9.1"
   },
-  "devDependencies": {
-    "typescript": "^5.1.3"
-  }
+ 
 }
