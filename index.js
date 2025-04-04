@@ -109,7 +109,7 @@ app.get("/", (_req, res) => {
 });
 
 // Start server
-const PORT = process.env.PORT || 1010;
+const PORT = process.env.PORT || 2020;
 httpServer.listen(PORT, () => {
     console.log(`Listening on port ${PORT}`);
 });
